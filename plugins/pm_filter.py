@@ -39,7 +39,7 @@ async def next_page(bot, query):
 
     ident, req, key, offset = query.data.split("_")
     if int(req) not in [query.from_user.id, 0]:
-        return await query.answer(𝔸𝕪𝕚𝕤𝕙𝕖𝕣𝕚🌝", show_alert=True)
+        return await query.answer(𝔸𝕪𝕚𝕤𝕙𝕖𝕣𝕚", show_alert=True)
     try:
         offset = int(offset)
     except:
@@ -112,14 +112,14 @@ async def next_page(bot, query):
 async def advantage_spoll_choker(bot, query):
     _, user, movie_ = query.data.split('#')
     if int(user) != 0 and query.from_user.id != int(user):
-        return await query.answer("𝔸𝕪𝕚𝕤𝕙𝕖𝕣𝕚🌝", show_alert=True)
+        return await query.answer("𝔸𝕪𝕚𝕤𝕙𝕖𝕣𝕚", show_alert=True)
     if movie_  == "close_spellcheck":
         return await query.message.delete()
     movies = SPELL_CHECK.get(query.message.reply_to_message.message_id)
     if not movies:
         return await query.answer("You are clicking on an old button which is expired.", show_alert=True)
     movie = movies[(int(movie_))]
-    await query.answer('𝙲𝚑𝚎𝚌𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙼𝚘𝚟𝚒𝚎 𝚒𝚗 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎...🤔')
+    await query.answer('𝙲𝚑𝚎𝚌𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙼𝚘𝚟𝚒𝚎 𝚒𝚗 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎...')
     k = await manual_filters(bot, query.message, text=movie)
     if k==False:
         files, offset, total_results = await get_search_results(movie, offset=0, filter=True)
@@ -240,7 +240,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 parse_mode="md"
             )
         else:
-            await query.message.edit_text('Some error occured😓!!', parse_mode="md")
+            await query.message.edit_text('Some error occured!!', parse_mode="md")
         return
 
     elif "disconnect" in query.data:
@@ -359,7 +359,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('Check PM 🌝, I have sent files in pm🤞',show_alert = True)
+                await query.answer('Check PM , I have sent files in pm',show_alert = True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
