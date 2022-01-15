@@ -41,7 +41,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Group', url='https://t.me/moviebus2')
-            InlineKeyboardButton('Chennel', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton('Channel', url='https://t.me/+AMHw_K1wvOM3MTU9')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
