@@ -1,7 +1,7 @@
-𝙳𝙴𝚅𝙸𝙻_𝚅2_𝙱𝙾𝚃
+𝐉𝐨𝐡𝐧 𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣 
 
 𝚅𝚎𝚛𝚢 𝚂𝚎𝚖𝚙𝚒𝚕 𝙱𝚘𝚝 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DEVIL-V2-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+ALBIN+TKO!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐉𝐨𝐡𝐧+𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+ALBIN+TKO!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
