@@ -1,7 +1,7 @@
 𝐉𝐨𝐡𝐧 𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣 
 
 𝚅𝚎𝚛𝚢 𝚂𝚎𝚖𝚙𝚒𝚕 𝙱𝚘𝚝 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐉𝐨𝐡𝐧+𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+ALBIN+TKO!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐉𝐨𝐡𝐧+𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣;𝗖𝗿𝗲𝗮𝘁𝗲𝗱+𝗕𝘆+𝗔𝗟𝗕𝗜𝗡+𝗧𝗞𝗢)
 </p>
 # 𝙲𝙻𝙸𝙲𝙺 𝙱𝙴𝙻𝙾𝚆 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 👇
 
