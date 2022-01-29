@@ -1,4 +1,3 @@
-import numpy as np
 import requests
 import shutil
 import cv2
