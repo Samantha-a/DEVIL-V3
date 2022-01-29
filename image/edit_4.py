@@ -1,6 +1,5 @@
 import requests
 import shutil
-import cv2
 import io
 import os
 from sample_config import Config
