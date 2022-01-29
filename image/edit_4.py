@@ -1,4 +1,3 @@
-from PIL import Image, ImageOps, ImageDraw
 import numpy as np
 import requests
 import shutil
