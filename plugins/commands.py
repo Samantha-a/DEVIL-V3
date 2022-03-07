@@ -47,7 +47,7 @@ async def start(client, message):
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
-        await message.reply_chat_action("waiting")
+        await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAJM_mImMhki2twNNIWOgY_GRwfjyO7QAAKIAwACsFewV2y0vw1z7c8-HgQ") 
         await asyncio.sleep(1)
         await m.delete()
@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
-        await message.reply_chat_action("waiting")
+        await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAJM_mImMhki2twNNIWOgY_GRwfjyO7QAAKIAwACsFewV2y0vw1z7c8-HgQ") 
         await asyncio.sleep(1)
         await m.delete()
