@@ -44,10 +44,7 @@ from pyrogram.errors import (
 from pyrogram import (
     Client, 
     filters
-    )
-
-
-admin_filter=filters.create(is_admin) 
+    ) 
 
 @Client.on_message(filters.command(["play", "fplay", f"play@{Config.BOT_USERNAME}", f"fplay@{Config.BOT_USERNAME}"]) & chat_filter)
 async def add_to_playlist(_, message: Message):
