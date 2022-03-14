@@ -30,8 +30,7 @@ from datetime import datetime
 from pyrogram import filters
 from config import Config
 import re
-from utils import (
-    add_to_db_playlist, 
+from utils import ( 
     clear_db_playlist, 
     delete_messages, 
     download, 
