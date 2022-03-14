@@ -46,7 +46,7 @@ from pyrogram import (
     filters
     ) 
 
-@Client.on_message(filters.command(["play", "fplay", f"play@{Config.BOT_USERNAME}", f"fplay@{Config.BOT_USERNAME}"]) & chat_filter)
+@Client.on_message(filters.command(["play", "fplay", f"play", f"fplay"]) & chat_filter)
 async def add_to_playlist(_, message: Message):
     with suppress(MessageIdInvalid, MessageNotModified):
         admins = await get_admins(Config.CHAT)
