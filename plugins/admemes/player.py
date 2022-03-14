@@ -29,7 +29,6 @@ from yt_dlp import YoutubeDL
 from datetime import datetime
 from pyrogram import filters
 from config import Config
-from PTN import parse
 import re
 from utils import (
     add_to_db_playlist, 
