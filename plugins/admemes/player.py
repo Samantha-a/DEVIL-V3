@@ -31,7 +31,6 @@ from pyrogram import filters
 from config import Config
 import re
 from utils import ( 
-    clear_db_playlist, 
     delete_messages, 
     download, 
     get_admins, 
