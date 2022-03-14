@@ -30,26 +30,6 @@ from datetime import datetime
 from pyrogram import filters
 from config import Config
 import re
-from utils import (
-    download, 
-    get_admins, 
-    get_duration,
-    is_admin, 
-    get_buttons, 
-    get_link, 
-    import_play_list, 
-    is_audio, 
-    leave_call, 
-    play, 
-    get_playlist_str, 
-    send_playlist, 
-    shuffle_playlist, 
-    start_stream, 
-    stream_from_link, 
-    chat_filter,
-    c_play,
-    is_ytdl_supported
-)
 from pyrogram.types import (
     InlineKeyboardMarkup, 
     InlineKeyboardButton
