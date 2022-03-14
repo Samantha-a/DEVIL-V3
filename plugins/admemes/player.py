@@ -30,8 +30,7 @@ from datetime import datetime
 from pyrogram import filters
 from config import Config
 import re
-from utils import ( 
-    delete_messages, 
+from utils import (
     download, 
     get_admins, 
     get_duration,
