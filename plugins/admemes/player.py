@@ -22,7 +22,6 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-from utils import LOGGER
 from youtube_search import YoutubeSearch
 from contextlib import suppress
 from pyrogram.types import Message
