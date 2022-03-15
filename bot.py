@@ -11,7 +11,16 @@ from database.ia_filterdb import Media
 from database.users_chats_db import db
 from info import SESSION, API_ID, API_HASH, BOT_TOKEN
 from utils import temp
+from config import Config
+from pyrogram import Client
 
+bot = Client(
+    "VideoPlayer",
+    Config.API_ID,
+    Config.API_HASH,
+    bot_token=Config.BOT_TOKEN,
+    plugins=dict(root="plugins")
+)
 class Bot(Client):
 
     def __init__(self):
