@@ -21,7 +21,6 @@ import re
 import asyncio
 from config import Config
 from datetime import datetime
-from helpers.log import LOGGER
 from yt_dlp import YoutubeDL
 from pyrogram.types import Message
 from pyrogram import Client, filters
