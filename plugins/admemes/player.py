@@ -26,7 +26,6 @@ from pyrogram.types import Message
 from pyrogram import Client, filters
 from youtube_search import YoutubeSearch
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-admin_filter=filters.create(is_admin)
 
 
 @Client.on_message(filters.command(["play", f"play@{Config.BOT_USERNAME}"]) & (filters.chat(Config.CHAT_ID) | filters.private | filters.chat(Config.LOG_GROUP)))
